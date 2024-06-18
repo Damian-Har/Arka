@@ -3,5 +3,7 @@
              x:Class="Arka.App">
   <Application.Styles>
     <FluentTheme />
+    <StyleInclude Source="avares://Arka/Styles/Brick_Style.axaml"/>
+    <StyleInclude Source="avares://Arka/Styles/Winter_Style.axaml"/>
   </Application.Styles>
 </Application>
